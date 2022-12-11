@@ -5,4 +5,8 @@ Web Scraping blog posts and saving scraped info into word-file. Learning project
 BeautifulSoup
 
 Requests
+
+docx
+
+htmldocx
 ***
